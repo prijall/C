@@ -50,7 +50,8 @@
     "**/.*",
     "**/.*/**",
     "**/.vscode",
-    "**/.vscode/**"
+    "**/.vscode/**",
+    "**/*.exe"
   ],
   "C_Cpp_Runner.useAddressSanitizer": false,
   "C_Cpp_Runner.useUndefinedSanitizer": false,
@@ -60,3 +61,4 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "git.ignoreLimitWarning": true
 }
+

@@ -18,6 +18,7 @@ class Programmer: public Employee {
     }
 };
 
+// main program:
 int main() {
   Programmer myObj;
   myObj.setSalary(50000);
